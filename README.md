@@ -75,6 +75,7 @@ Dependencies:
 flutter_launcher_icons: ^0.9.2
 
 Add this on pubspec.yml file in dev_dependencies.
+
 flutter_icons:
   image_path_android: "assets/images/app_logo.png"
   image_path_ios: "assets/images/app_logo.png"
